@@ -4,7 +4,8 @@
     <meta charset="UTF-8" />
     <title>기간별입출고 순위</title>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-
+    <!-- 캔버스js -->
+    <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
     <script
       type="text/javascript"
       src="../../components/loadNavbar.js"
@@ -44,7 +45,6 @@
     <link rel="stylesheet" href="../../style.css" />
     <link rel="stylesheet" href="ranking.css" />
     <script type="text/javascript" src="./rankingPage.js" defer></script>
-    <script src="chart.js" defer></script>
     <!-- JavaScript 파일 로드 -->
   </head>
   <body>
@@ -63,7 +63,13 @@
           <div id="radioTitle">규격 :</div>
           <div id="radios">
             <div class="radio-group">
-              <input type="radio" id="total" name="searchType" value="total" />
+              <input
+                type="radio"
+                id="total"
+                name="searchType"
+                value="total"
+                checked
+              />
               <label for="total">전체</label>
             </div>
             <div class="radio-group">
@@ -193,9 +199,5 @@
         </div>
       </div>
     </div>
-    <script src="WebContent/pages/ranking/chart.js"></script>
-
-    <!-- 캔버스js -->
-    <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
   </body>
 </html>

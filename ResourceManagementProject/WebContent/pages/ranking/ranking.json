@@ -6,7 +6,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -15,7 +16,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -24,7 +26,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -33,7 +36,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -42,7 +46,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -51,7 +56,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -60,7 +66,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -69,7 +76,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -78,7 +86,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -87,7 +96,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -96,7 +106,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -105,7 +116,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -114,7 +126,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH01",
@@ -123,286 +136,19 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "EA",
-    "date": "2024-05-15"
+    "date": "2024-05-15",
+    "category": "입고"
   },
+
   {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
+    "date": "2024-02-10",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH02",
@@ -411,7 +157,178 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-02-10"
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH03",
@@ -420,7 +337,148 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-03-15"
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH04",
@@ -429,7 +487,138 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-04-10"
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH04",
+    "itemName": "딸기",
+    "modelName": "STR-1112",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-04-10",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH05",
@@ -438,7 +627,168 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-05-05"
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-05-05",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH06",
@@ -447,7 +797,189 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-06-01"
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-06-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-01",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH06",
+    "itemName": "레몬",
+    "modelName": "LEM-1516",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-01",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -456,7 +988,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -465,7 +998,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -474,7 +1008,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -483,7 +1018,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -492,7 +1028,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -501,7 +1038,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -510,7 +1048,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -519,7 +1058,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -528,7 +1068,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -537,7 +1078,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -546,7 +1088,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -555,7 +1098,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH07",
@@ -564,7 +1108,19 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH07",
+    "itemName": "체리",
+    "modelName": "CHR-1718",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -573,7 +1129,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -582,7 +1139,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -591,7 +1149,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -600,7 +1159,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -609,7 +1169,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -618,7 +1179,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -627,7 +1189,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -636,7 +1199,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -645,7 +1209,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -654,7 +1219,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH07",
@@ -663,70 +1229,1077 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-15",
+    "category": "출고"
   },
   {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-02-10",
+    "category": "출고"
   },
   {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-02-10",
+    "category": "출고"
   },
   {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-02-10",
+    "category": "출고"
   },
   {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-02-10",
+    "category": "출고"
   },
   {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-02-10",
+    "category": "출고"
   },
   {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-02-10",
+    "category": "출고"
   },
   {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH02",
+    "itemName": "바나나",
+    "modelName": "BAN-5678",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-02-10",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-03-15",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "출고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH03",
+    "itemName": "포도",
+    "modelName": "GRP-9101",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-25",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH05",
+    "itemName": "오렌지",
+    "modelName": "ORN-1314",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "EA",
+    "date": "2024-07-29",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH08",
@@ -735,7 +2308,148 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-08-10"
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH08",
+    "itemName": "복숭아",
+    "modelName": "PCH-1920",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-08-10",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH09",
@@ -744,7 +2458,178 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-09-05"
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
+  },
+  {
+    "warehouseNumber": "WH09",
+    "itemName": "자두",
+    "modelName": "PLM-2122",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-05",
+    "category": "출고"
   },
   {
     "warehouseNumber": "WH10",
@@ -753,1780 +2638,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-10-01"
-  },
-  {
-    "warehouseNumber": "WH11",
-    "itemName": "메론",
-    "modelName": "MLN-2526",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-11-15"
-  },
-  {
-    "warehouseNumber": "WH12",
-    "itemName": "참외",
-    "modelName": "CMO-2728",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-12-01"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "EA",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-07-15"
-  },
-  {
-    "warehouseNumber": "WH08",
-    "itemName": "복숭아",
-    "modelName": "PCH-1920",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-08-10"
-  },
-  {
-    "warehouseNumber": "WH09",
-    "itemName": "자두",
-    "modelName": "PLM-2122",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-09-05"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH10",
@@ -2535,106 +2648,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-10-01"
-  },
-  {
-    "warehouseNumber": "WH11",
-    "itemName": "메론",
-    "modelName": "MLN-2526",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-11-15"
-  },
-  {
-    "warehouseNumber": "WH12",
-    "itemName": "참외",
-    "modelName": "CMO-2728",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-12-01"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-07-15"
-  },
-  {
-    "warehouseNumber": "WH08",
-    "itemName": "복숭아",
-    "modelName": "PCH-1920",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-08-10"
-  },
-  {
-    "warehouseNumber": "WH09",
-    "itemName": "자두",
-    "modelName": "PLM-2122",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-09-05"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH10",
@@ -2643,106 +2658,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-10-01"
-  },
-  {
-    "warehouseNumber": "WH11",
-    "itemName": "메론",
-    "modelName": "MLN-2526",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-11-15"
-  },
-  {
-    "warehouseNumber": "WH12",
-    "itemName": "참외",
-    "modelName": "CMO-2728",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-12-01"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-07-15"
-  },
-  {
-    "warehouseNumber": "WH08",
-    "itemName": "복숭아",
-    "modelName": "PCH-1920",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-08-10"
-  },
-  {
-    "warehouseNumber": "WH09",
-    "itemName": "자두",
-    "modelName": "PLM-2122",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-09-05"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH10",
@@ -2751,106 +2668,8 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-10-01"
-  },
-  {
-    "warehouseNumber": "WH11",
-    "itemName": "메론",
-    "modelName": "MLN-2526",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-11-15"
-  },
-  {
-    "warehouseNumber": "WH12",
-    "itemName": "참외",
-    "modelName": "CMO-2728",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-12-01"
-  },
-  {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-01-15"
-  },
-  {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-02-10"
-  },
-  {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-03-15"
-  },
-  {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-04-10"
-  },
-  {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-05-05"
-  },
-  {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-06-01"
-  },
-  {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-07-15"
-  },
-  {
-    "warehouseNumber": "WH08",
-    "itemName": "복숭아",
-    "modelName": "PCH-1920",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-08-10"
-  },
-  {
-    "warehouseNumber": "WH09",
-    "itemName": "자두",
-    "modelName": "PLM-2122",
-    "manufacturer": "Fruit Co.",
-    "usage": "식료품점",
-    "specification": "BOX",
-    "date": "2024-09-05"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
     "warehouseNumber": "WH10",
@@ -2859,105 +2678,137 @@
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-10-01"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH11",
-    "itemName": "메론",
-    "modelName": "MLN-2526",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-11-15"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH12",
-    "itemName": "참외",
-    "modelName": "CMO-2728",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-12-01"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH01",
-    "itemName": "사과",
-    "modelName": "APL-1234",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-01-15"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH02",
-    "itemName": "바나나",
-    "modelName": "BAN-5678",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-02-10"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH03",
-    "itemName": "포도",
-    "modelName": "GRP-9101",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-03-15"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH04",
-    "itemName": "딸기",
-    "modelName": "STR-1112",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-04-10"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH05",
-    "itemName": "오렌지",
-    "modelName": "ORN-1314",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-05-05"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH06",
-    "itemName": "레몬",
-    "modelName": "LEM-1516",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-06-01"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH07",
-    "itemName": "체리",
-    "modelName": "CHR-1718",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-07-15"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH08",
-    "itemName": "복숭아",
-    "modelName": "PCH-1920",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-08-10"
+    "date": "2024-07-01",
+    "category": "입고"
   },
   {
-    "warehouseNumber": "WH09",
-    "itemName": "자두",
-    "modelName": "PLM-2122",
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
     "manufacturer": "Fruit Co.",
     "usage": "식료품점",
     "specification": "BOX",
-    "date": "2024-08-10"
+    "date": "2024-07-01",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-01",
+    "category": "입고"
+  },
+  {
+    "warehouseNumber": "WH10",
+    "itemName": "수박",
+    "modelName": "WML-2324",
+    "manufacturer": "Fruit Co.",
+    "usage": "식료품점",
+    "specification": "BOX",
+    "date": "2024-07-01",
+    "category": "입고"
   }
 ]

@@ -98,13 +98,14 @@ document.querySelector(".search").addEventListener("click", () => {
   const dateStartValue = new Date(document.getElementById("dateStart").value);
   const dateEndValue = new Date(document.getElementById("dateEnd").value);
 
+  console.log("value : " + searchType);
   console.log("Start Date:", dateStartValue);
   console.log("End Date:", dateEndValue);
 
-  const filteredData = rankingJson.filter((item) => {
+  var filteredData = rankingJson.filter((item) => {
     const itemDate = new Date(item.date);
 
-    console.log("Item Date:", itemDate);
+    // console.log("Item Date:", itemDate);
 
     const specificationMatch =
       searchType === "total" ||
@@ -112,7 +113,7 @@ document.querySelector(".search").addEventListener("click", () => {
       (searchType === "valueEA" && item.specification === "EA");
 
     return (
-      (selectInput === "전체" || item.usage === selectInput) &&
+      (selectInput === "전체" || item.category === selectInput) &&
       itemDate >= dateStartValue &&
       itemDate <= dateEndValue &&
       specificationMatch

@@ -197,6 +197,7 @@ input[type="checkbox"] {
 
 thead {
   position: sticky;
+  z-index: 5;
   top: 0;
 }
 
