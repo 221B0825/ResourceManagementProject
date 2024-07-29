@@ -103,9 +103,9 @@ document.querySelector(".search").addEventListener("click", () => {
   const dateStartValue = new Date(document.getElementById("dateStart").value);
   const dateEndValue = new Date(document.getElementById("dateEnd").value);
 
-  console.log("value : " + searchType);
-  console.log("Start Date:", dateStartValue);
-  console.log("End Date:", dateEndValue);
+  // console.log("value : " + searchType);
+  // console.log("Start Date:", dateStartValue);
+  // console.log("End Date:", dateEndValue);
 
   const filteredData = rankingJson.filter((item) => {
     const itemDate = new Date(item.date);

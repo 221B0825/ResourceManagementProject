@@ -12,7 +12,7 @@ async function fetchData() {
     }
     const data = await response.json();
     jsonAll = [...data];
-    console.log(jsonAll);
+    // console.log(jsonAll);
     createTable(jsonAll);
   } catch (error) {
     console.error("Fetch error: ", error);
@@ -101,8 +101,9 @@ document.querySelector(".search").addEventListener("click", () => {
     const searchValue = item[searchType] ? item[searchType].toLowerCase() : "";
     const searchMatch = searchValue.includes(searchBar);
 
-    if (itemDate >= dateStartValue && itemDate <= dateEndValue)
-      console.log("날짜가 필터링됨");
+    // if (itemDate >= dateStartValue && itemDate <= dateEndValue)
+    //   console.log("날짜가 필터링됨");
+
     return (
       (selectInput === "전체" || item.category === selectInput) &&
       itemDate >= dateStartValue &&
@@ -192,7 +193,7 @@ document.querySelector(".btn-outline-danger").addEventListener("click", () => {
         }
       });
     } else {
-      swal("삭제취소 하였습니다.");
+      swal("취소하였습니다.");
     }
   });
 });
@@ -221,7 +222,7 @@ document.getElementById("tableBody").addEventListener("click", (event) => {
         jsonAll.splice(index, 1);
         createTable(jsonAll);
       } else {
-        swal("삭제 취소하였습니다.");
+        swal("취소하였습니다.");
       }
     });
   }
@@ -269,7 +270,7 @@ document.getElementById("excel").addEventListener("click", () => {
 document.addEventListener("DOMContentLoaded", () => {
   const tableContainer = document.getElementById("table-container");
 
-  // 이벤트 위임을 사용하여 체크박스 클릭을 처리합니다
+  // 이벤트 위임을 사용하여 체크박스 클릭을 처리
   tableContainer.addEventListener("change", (event) => {
     if (event.target.id === "selectAllCheckbox") {
       const isChecked = event.target.checked;
