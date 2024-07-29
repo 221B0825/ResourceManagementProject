@@ -2,6 +2,8 @@ document.addEventListener("DOMContentLoaded", fetchData);
 
 let rankingJson = [];
 let saveAggregatedData = [];
+let chartTop5, chartAllItems; // 차트를 전역 변수로 선언
+
 /*-----------------입출고 순위 데이터 가져오기-----------*/
 async function fetchData() {
   try {
@@ -9,10 +11,13 @@ async function fetchData() {
 
     rankingJson = response.data;
 
-    //전체데이터 테이블에 업데이트
+    // 전체 데이터 테이블에 업데이트
     const aggregatedData = countData(rankingJson);
     createTable(aggregatedData);
     saveAggregatedData = aggregatedData;
+
+    // 차트 생성 및 렌더링
+    createCharts();
   } catch (error) {
     console.error("Fetch error가 발생했습니다.", error);
   }
@@ -102,10 +107,8 @@ document.querySelector(".search").addEventListener("click", () => {
   console.log("Start Date:", dateStartValue);
   console.log("End Date:", dateEndValue);
 
-  var filteredData = rankingJson.filter((item) => {
+  const filteredData = rankingJson.filter((item) => {
     const itemDate = new Date(item.date);
-
-    // console.log("Item Date:", itemDate);
 
     const specificationMatch =
       searchType === "total" ||
@@ -139,6 +142,9 @@ document.querySelector(".search").addEventListener("click", () => {
 
   // 테이블 업데이트
   createTable(aggregatedArray);
+
+  // 차트 업데이트
+  updateCharts(aggregatedArray);
 });
 
 /*------------------------초기화 구현 완료------------------------*/
@@ -164,6 +170,9 @@ document
     // 전체 내역으로 다시 출력
     createTable(saveAggregatedData);
 
+    // 차트도 초기 데이터로 업데이트
+    updateCharts(saveAggregatedData);
+
     // 안내하기
     swal(
       "기간별입출고 순위 초기화",
@@ -172,86 +181,15 @@ document
     );
   });
 
-// -------------------- charts ------------------------
-// 상위 5개의 수량을 가진 항목을 가져오는 함수
-function getTop5ItemsByQuantity() {
-  // 테이블의 tbody에서 모든 행
-  const rows = document.querySelectorAll("table tbody tr");
-
-  // 데이터를 저장할 배열을 초기화
-  const data = [];
-
-  // 각 행에서 데이터를 추출합니다
-  rows.forEach((row) => {
-    const cells = row.querySelectorAll("td");
-    const quantity = parseInt(cells[7].innerText, 10); // quantity는 8번째 열 (0부터 시작하므로 인덱스 7)
-
-    data.push({
-      warehouseNumber: cells[1].innerText,
-      itemName: cells[2].innerText,
-      modelName: cells[3].innerText,
-      manufacturer: cells[4].innerText,
-      usage: cells[5].innerText,
-      specification: cells[6].innerText,
-      quantity: quantity,
-    });
-  });
-
-  // quantity를 기준으로 내림차순 정렬
-  data.sort((a, b) => b.quantity - a.quantity);
-
-  // 상위 5개의 항목을 추출
-  const top5Items = data.slice(0, 5);
-
-  return top5Items;
-}
-
-// 전체 품목의 수량을 가져오는 함수
-function getAllItems() {
-  // 테이블의 tbody에서 모든 행을 가져옵니다
-  const rows = document.querySelectorAll("table tbody tr");
-
-  // 데이터를 저장할 배열을 초기화합니다
-  const data = [];
-
-  // 각 행에서 데이터를 추출합니다
-  rows.forEach((row) => {
-    const cells = row.querySelectorAll("td");
-    const quantity = parseInt(cells[7].innerText, 10); // quantity는 8번째 열 (0부터 시작하므로 인덱스 7)
-
-    data.push({
-      itemName: cells[2].innerText,
-      quantity: quantity,
-    });
-  });
-
-  return data;
-}
-
-// 페이지 로드 시 차트를 생성하고 렌더링하는 함수
-window.onload = function () {
-  // 상위 5개 항목 가져오기
-  const top5Items = getTop5ItemsByQuantity();
-  const dataPointsTop5 = top5Items.map((item) => ({
-    y: item.quantity,
-    label: item.itemName,
-  }));
-
-  // 전체 품목 가져오기
-  const allItems = getAllItems();
-  const dataPointsAllItems = allItems.map((item) => ({
-    label: item.itemName, // x를 label로 변경
-    y: item.quantity,
-  }));
-  console.log(dataPointsAllItems);
-
+// -------------------- 차트 생성 및 업데이트 ------------------------
+function createCharts() {
   // 상위 5개 항목 차트 생성
-  var chartTop5 = new CanvasJS.Chart("chartContainer", {
+  chartTop5 = new CanvasJS.Chart("chartContainer", {
     theme: "light2", // "light1", "light2", "dark1", "dark2"
     exportEnabled: true,
     animationEnabled: true,
     title: {
-      text: "입출고 top 5",
+      text: "입출고 TOP 5",
     },
     data: [
       {
@@ -262,7 +200,7 @@ window.onload = function () {
         legendText: "{label}",
         indexLabelFontSize: 16,
         indexLabel: "{label} - {y}",
-        dataPoints: dataPointsTop5,
+        dataPoints: [],
       },
     ],
   });
@@ -270,7 +208,7 @@ window.onload = function () {
   chartTop5.render();
 
   // 전체 품목 수량 차트 생성
-  var chartAllItems = new CanvasJS.Chart("chartContainer2", {
+  chartAllItems = new CanvasJS.Chart("chartContainer2", {
     animationEnabled: true,
     theme: "light2",
     title: {
@@ -285,10 +223,61 @@ window.onload = function () {
       {
         type: "column",
         yValueFormatString: "#,### Units",
-        dataPoints: dataPointsAllItems,
+        dataPoints: [],
       },
     ],
   });
 
   chartAllItems.render();
-};
+
+  // 차트를 초기 데이터로 업데이트
+  updateCharts(saveAggregatedData);
+}
+
+// 차트 업데이트 함수
+function updateCharts(data) {
+  // 상위 5개 항목 가져오기
+  const top5Items = getTop5ItemsByQuantity(data);
+  const dataPointsTop5 = top5Items.map((item) => ({
+    y: item.quantity,
+    label: item.itemName,
+  }));
+
+  // 전체 품목 가져오기
+  const allItems = getAllItems(data);
+  const dataPointsAllItems = allItems.map((item) => ({
+    label: item.itemName, // x를 label로 변경
+    y: item.quantity,
+  }));
+  console.log(dataPointsAllItems);
+
+  // 차트 데이터 업데이트
+  chartTop5.options.data[0].dataPoints = dataPointsTop5;
+  chartAllItems.options.data[0].dataPoints = dataPointsAllItems;
+
+  // 차트 다시 렌더링
+  chartTop5.render();
+  chartAllItems.render();
+}
+
+// 상위 5개의 수량을 가진 항목을 가져오는 함수
+function getTop5ItemsByQuantity(data) {
+  // 데이터를 저장할 배열을 초기화
+  const sortedData = [...data];
+
+  // quantity를 기준으로 내림차순 정렬
+  sortedData.sort((a, b) => b.quantity - a.quantity);
+
+  // 상위 5개의 항목을 추출
+  const top5Items = sortedData.slice(0, 5);
+
+  return top5Items;
+}
+
+// 전체 품목의 수량을 가져오는 함수
+function getAllItems(data) {
+  return data.map((item) => ({
+    itemName: item.itemName,
+    quantity: item.quantity,
+  }));
+}
