@@ -49,6 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 let materialArray = [];
+let filteredData = [];
 let selectedRowIndex = null;
 
 async function loadMaterialData() {
@@ -56,7 +57,8 @@ async function loadMaterialData() {
     const response = await fetch("../../data/material.json");
     const materialData = await response.json();
     materialArray = materialData;
-    populateTable(materialArray);
+    filteredData = materialData; // 초기값은 전체 데이터를 사용
+    populateTable(filteredData);
   } catch (error) {
     console.error("Error loading material data:", error);
   }
@@ -69,7 +71,7 @@ function populateTable(data) {
   data.forEach((material, index) => {
     const row = document.createElement("tr");
     row.setAttribute("data-index", index);
-    row.addEventListener("click", () => selectRow(index));
+    row.addEventListener("click", () => selectRow(index, data));
 
     Object.keys(material).forEach((key) => {
       const cell = document.createElement("td");
@@ -81,9 +83,9 @@ function populateTable(data) {
   });
 }
 
-function selectRow(index) {
+function selectRow(index, data) {
   selectedRowIndex = index;
-  const material = materialArray[index];
+  const material = data[index];
   document.getElementById("materialNameInput").value =
     material.materialName || "";
   document.getElementById("modelNameInput").value = material.modelName || "";
@@ -133,7 +135,7 @@ function saveMaterial() {
   );
   if (!validateUnitWeight(unitWeight)) {
     // 원래 값으로 되돌리기
-    selectRow(selectedRowIndex);
+    selectRow(selectedRowIndex, filteredData);
     return;
   }
 
@@ -148,7 +150,7 @@ function saveMaterial() {
     usage: document.getElementById("usageInput").value,
   };
 
-  const originalMaterial = materialArray[selectedRowIndex];
+  const originalMaterial = filteredData[selectedRowIndex];
 
   // 현재 값과 배열의 값을 비교하여 동일한지 확인
   let isSame = true;
@@ -170,9 +172,19 @@ function saveMaterial() {
     return;
   }
 
-  materialArray[selectedRowIndex] = updatedMaterial;
+  // 전체 배열에서 해당 항목 업데이트
+  const materialIndex = materialArray.findIndex(
+    (material) => material === originalMaterial
+  );
+  if (materialIndex !== -1) {
+    materialArray[materialIndex] = updatedMaterial;
+  }
+
+  // 필터링된 배열에서 해당 항목 업데이트
+  filteredData[selectedRowIndex] = updatedMaterial;
+
   // 테이블 update
-  populateTable(materialArray);
+  populateTable(filteredData);
   swal("변경 완료", "선택하신 자재 변경이 완료되었습니다!", "success");
 }
 
@@ -188,7 +200,7 @@ function searchItem() {
     .value.toLowerCase();
   const category = document.getElementById("categorySelect").value;
 
-  const filteredData = materialArray.filter((material) => {
+  filteredData = materialArray.filter((material) => {
     let match = true;
 
     if (
@@ -252,7 +264,9 @@ function createMaterial() {
   };
 
   materialArray.push(newMaterial);
-  populateTable(materialArray);
+  filteredData.push(newMaterial); // 새로운 자재 추가 시 필터링된 배열에도 추가
+
+  populateTable(filteredData);
 
   // 모달 닫기
   const modal = bootstrap.Modal.getInstance(
@@ -281,8 +295,20 @@ function deleteMaterial() {
     dangerMode: true,
   }).then((willDelete) => {
     if (willDelete) {
-      materialArray.splice(selectedRowIndex, 1);
-      populateTable(materialArray);
+      const material = filteredData[selectedRowIndex];
+
+      // 전체 배열에서 해당 항목 제거
+      const materialIndex = materialArray.findIndex(
+        (item) => item === material
+      );
+      if (materialIndex !== -1) {
+        materialArray.splice(materialIndex, 1);
+      }
+
+      // 필터링된 배열에서 해당 항목 제거
+      filteredData.splice(selectedRowIndex, 1);
+
+      populateTable(filteredData);
       swal("삭제 완료", "선택된 자재가 삭제되었습니다.", "success");
 
       // settingArea 필드 값 지우기
@@ -303,7 +329,7 @@ function deleteMaterial() {
 }
 
 function downloadExcel() {
-  const worksheet = XLSX.utils.json_to_sheet(materialArray);
+  const worksheet = XLSX.utils.json_to_sheet(filteredData); // 필터링된 데이터를 사용
   const workbook = XLSX.utils.book_new();
   XLSX.utils.book_append_sheet(workbook, worksheet, "Materials");
   XLSX.writeFile(workbook, "materials.xlsx");

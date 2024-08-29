@@ -108,17 +108,350 @@
     "maxLoad": 900
   },
   {
-    "warehouseNumber": "WH07",
-    "warehouseName": "대구수성구창고",
-    "location": "대구광역시 수성구",
+    "warehouseNumber": "WH13",
+    "warehouseName": "충남공주시창고-A",
+    "location": "충청남도 공주시",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 4,
+    "maxLoad": 1600
+  },
+  {
+    "warehouseNumber": "WH14",
+    "warehouseName": "충남공주시창고-B",
+    "location": "충청남도 공주시",
+    "category": "냉장",
+    "rowNumber": 3,
+    "colNumber": 4,
+    "maxLoad": 1200
+  },
+  {
+    "warehouseNumber": "WH15",
+    "warehouseName": "충남공주시창고-C",
+    "location": "충청남도 공주시",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 5,
+    "maxLoad": 2000
+  },
+  {
+    "warehouseNumber": "WH16",
+    "warehouseName": "충남공주시창고-D",
+    "location": "충청남도 공주시",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 5,
+    "maxLoad": 2000
+  },
+  {
+    "warehouseNumber": "WH17",
+    "warehouseName": "충남공주시창고-E",
+    "location": "충청남도 공주시",
+    "category": "냉장",
+    "rowNumber": 3,
+    "colNumber": 2,
+    "maxLoad": 600
+  },
+  {
+    "warehouseNumber": "WH18",
+    "warehouseName": "충남천안시창고-A",
+    "location": "충청남도 천안시",
     "category": "상온",
+    "rowNumber": 1,
+    "colNumber": 4,
+    "maxLoad": 400
+  },
+  {
+    "warehouseNumber": "WH19",
+    "warehouseName": "충남천안시창고-B",
+    "location": "충청남도 천안시",
+    "category": "상온",
+    "rowNumber": 3,
+    "colNumber": 4,
+    "maxLoad": 1200
+  },
+  {
+    "warehouseNumber": "WH20",
+    "warehouseName": "충남천안시창고-C",
+    "location": "충청남도 천안시",
+    "category": "상온",
+    "rowNumber": 2,
+    "colNumber": 5,
+    "maxLoad": 1000
+  },
+  {
+    "warehouseNumber": "WH21",
+    "warehouseName": "충남천안시창고-D",
+    "location": "충청남도 천안시",
+    "category": "상온",
+    "rowNumber": 1,
+    "colNumber": 2,
+    "maxLoad": 200
+  },
+  {
+    "warehouseNumber": "WH22",
+    "warehouseName": "충남천안시창고-E",
+    "location": "충청남도 천안시",
+    "category": "상온",
+    "rowNumber": 1,
+    "colNumber": 2,
+    "maxLoad": 200
+  },
+  {
+    "warehouseNumber": "WH23",
+    "warehouseName": "충남아산시창고-A",
+    "location": "충청남도 아산시",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 3,
+    "maxLoad": 1200
+  },
+  {
+    "warehouseNumber": "WH24",
+    "warehouseName": "충남아산시창고-B",
+    "location": "충청남도 아산시",
+    "category": "냉장",
+    "rowNumber": 1,
+    "colNumber": 3,
+    "maxLoad": 300
+  },
+  {
+    "warehouseNumber": "WH25",
+    "warehouseName": "충남아산시창고-C",
+    "location": "충청남도 아산시",
+    "category": "냉장",
+    "rowNumber": 1,
+    "colNumber": 5,
+    "maxLoad": 500
+  },
+  {
+    "warehouseNumber": "WH26",
+    "warehouseName": "충남아산시창고-D",
+    "location": "충청남도 아산시",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 4,
+    "maxLoad": 1600
+  },
+  {
+    "warehouseNumber": "WH27",
+    "warehouseName": "충남아산시창고-E",
+    "location": "충청남도 아산시",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 4,
+    "maxLoad": 1600
+  },
+  {
+    "warehouseNumber": "WH28",
+    "warehouseName": "부산해운대구창고-A",
+    "location": "부산광역시 해운대구",
+    "category": "상온",
+    "rowNumber": 5,
+    "colNumber": 1,
+    "maxLoad": 500
+  },
+  {
+    "warehouseNumber": "WH29",
+    "warehouseName": "부산해운대구창고-B",
+    "location": "부산광역시 해운대구",
+    "category": "상온",
+    "rowNumber": 2,
+    "colNumber": 3,
+    "maxLoad": 600
+  },
+  {
+    "warehouseNumber": "WH30",
+    "warehouseName": "부산해운대구창고-C",
+    "location": "부산광역시 해운대구",
+    "category": "상온",
+    "rowNumber": 2,
+    "colNumber": 1,
+    "maxLoad": 200
+  },
+  {
+    "warehouseNumber": "WH31",
+    "warehouseName": "부산해운대구창고-D",
+    "location": "부산광역시 해운대구",
+    "category": "상온",
+    "rowNumber": 3,
+    "colNumber": 1,
+    "maxLoad": 300
+  },
+  {
+    "warehouseNumber": "WH32",
+    "warehouseName": "부산해운대구창고-E",
+    "location": "부산광역시 해운대구",
+    "category": "상온",
+    "rowNumber": 2,
+    "colNumber": 1,
+    "maxLoad": 200
+  },
+  {
+    "warehouseNumber": "WH33",
+    "warehouseName": "부산남구창고-A",
+    "location": "부산광역시 남구",
+    "category": "냉장",
+    "rowNumber": 1,
+    "colNumber": 3,
+    "maxLoad": 300
+  },
+  {
+    "warehouseNumber": "WH34",
+    "warehouseName": "부산남구창고-B",
+    "location": "부산광역시 남구",
+    "category": "냉장",
+    "rowNumber": 5,
+    "colNumber": 2,
+    "maxLoad": 1000
+  },
+  {
+    "warehouseNumber": "WH35",
+    "warehouseName": "부산남구창고-C",
+    "location": "부산광역시 남구",
+    "category": "냉장",
+    "rowNumber": 1,
+    "colNumber": 1,
+    "maxLoad": 100
+  },
+  {
+    "warehouseNumber": "WH36",
+    "warehouseName": "부산남구창고-D",
+    "location": "부산광역시 남구",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 5,
+    "maxLoad": 2000
+  },
+  {
+    "warehouseNumber": "WH37",
+    "warehouseName": "부산남구창고-E",
+    "location": "부산광역시 남구",
+    "category": "냉장",
     "rowNumber": 2,
     "colNumber": 4,
     "maxLoad": 800
   },
   {
-    "warehouseNumber": "WH08",
-    "warehouseName": "광주북구창고",
+    "warehouseNumber": "WH38",
+    "warehouseName": "대구달서구창고-A",
+    "location": "대구광역시 달서구",
+    "category": "냉장",
+    "rowNumber": 1,
+    "colNumber": 2,
+    "maxLoad": 200
+  },
+  {
+    "warehouseNumber": "WH39",
+    "warehouseName": "대구달서구창고-B",
+    "location": "대구광역시 달서구",
+    "category": "냉장",
+    "rowNumber": 5,
+    "colNumber": 1,
+    "maxLoad": 500
+  },
+  {
+    "warehouseNumber": "WH40",
+    "warehouseName": "대구달서구창고-C",
+    "location": "대구광역시 달서구",
+    "category": "냉장",
+    "rowNumber": 3,
+    "colNumber": 5,
+    "maxLoad": 1500
+  },
+  {
+    "warehouseNumber": "WH41",
+    "warehouseName": "대구달서구창고-D",
+    "location": "대구광역시 달서구",
+    "category": "냉장",
+    "rowNumber": 5,
+    "colNumber": 3,
+    "maxLoad": 1500
+  },
+  {
+    "warehouseNumber": "WH42",
+    "warehouseName": "대구달서구창고-E",
+    "location": "대구광역시 달서구",
+    "category": "냉장",
+    "rowNumber": 5,
+    "colNumber": 1,
+    "maxLoad": 500
+  },
+  {
+    "warehouseNumber": "WH43",
+    "warehouseName": "대구수성구창고-A",
+    "location": "대구광역시 수성구",
+    "category": "상온",
+    "rowNumber": 2,
+    "colNumber": 3,
+    "maxLoad": 600
+  },
+  {
+    "warehouseNumber": "WH44",
+    "warehouseName": "대구수성구창고-B",
+    "location": "대구광역시 수성구",
+    "category": "상온",
+    "rowNumber": 5,
+    "colNumber": 3,
+    "maxLoad": 1500
+  },
+  {
+    "warehouseNumber": "WH45",
+    "warehouseName": "대구수성구창고-C",
+    "location": "대구광역시 수성구",
+    "category": "상온",
+    "rowNumber": 5,
+    "colNumber": 1,
+    "maxLoad": 500
+  },
+  {
+    "warehouseNumber": "WH46",
+    "warehouseName": "대구수성구창고-D",
+    "location": "대구광역시 수성구",
+    "category": "상온",
+    "rowNumber": 5,
+    "colNumber": 4,
+    "maxLoad": 2000
+  },
+  {
+    "warehouseNumber": "WH47",
+    "warehouseName": "대구수성구창고-E",
+    "location": "대구광역시 수성구",
+    "category": "상온",
+    "rowNumber": 2,
+    "colNumber": 3,
+    "maxLoad": 600
+  },
+  {
+    "warehouseNumber": "WH48",
+    "warehouseName": "광주북구창고-A",
+    "location": "광주광역시 북구",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 4,
+    "maxLoad": 1600
+  },
+  {
+    "warehouseNumber": "WH49",
+    "warehouseName": "광주북구창고-B",
+    "location": "광주광역시 북구",
+    "category": "냉장",
+    "rowNumber": 1,
+    "colNumber": 1,
+    "maxLoad": 100
+  },
+  {
+    "warehouseNumber": "WH50",
+    "warehouseName": "광주북구창고-C",
+    "location": "광주광역시 북구",
+    "category": "냉장",
+    "rowNumber": 1,
+    "colNumber": 2,
+    "maxLoad": 200
+  },
+  {
+    "warehouseNumber": "WH51",
+    "warehouseName": "광주북구창고-D",
     "location": "광주광역시 북구",
     "category": "냉장",
     "rowNumber": 4,
@@ -126,39 +459,192 @@
     "maxLoad": 800
   },
   {
-    "warehouseNumber": "WH09",
-    "warehouseName": "광주서구창고",
-    "location": "광주광역시 서구",
-    "category": "상온",
-    "rowNumber": 3,
-    "colNumber": 3,
-    "maxLoad": 900
+    "warehouseNumber": "WH52",
+    "warehouseName": "광주북구창고-E",
+    "location": "광주광역시 북구",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 4,
+    "maxLoad": 1600
   },
   {
-    "warehouseNumber": "WH10",
-    "warehouseName": "경기수원시창고",
-    "location": "경기도 수원시",
-    "category": "냉장",
-    "rowNumber": 2,
-    "colNumber": 5,
+    "warehouseNumber": "WH53",
+    "warehouseName": "광주서구창고-A",
+    "location": "광주광역시 서구",
+    "category": "상온",
+    "rowNumber": 5,
+    "colNumber": 2,
     "maxLoad": 1000
   },
   {
-    "warehouseNumber": "WH11",
-    "warehouseName": "경기성남시창고",
+    "warehouseNumber": "WH54",
+    "warehouseName": "광주서구창고-B",
+    "location": "광주광역시 서구",
+    "category": "상온",
+    "rowNumber": 1,
+    "colNumber": 3,
+    "maxLoad": 300
+  },
+  {
+    "warehouseNumber": "WH55",
+    "warehouseName": "광주서구창고-C",
+    "location": "광주광역시 서구",
+    "category": "상온",
+    "rowNumber": 1,
+    "colNumber": 2,
+    "maxLoad": 200
+  },
+  {
+    "warehouseNumber": "WH56",
+    "warehouseName": "광주서구창고-D",
+    "location": "광주광역시 서구",
+    "category": "상온",
+    "rowNumber": 5,
+    "colNumber": 2,
+    "maxLoad": 1000
+  },
+  {
+    "warehouseNumber": "WH57",
+    "warehouseName": "광주서구창고-E",
+    "location": "광주광역시 서구",
+    "category": "상온",
+    "rowNumber": 5,
+    "colNumber": 1,
+    "maxLoad": 500
+  },
+  {
+    "warehouseNumber": "WH58",
+    "warehouseName": "경기수원시창고-A",
+    "location": "경기도 수원시",
+    "category": "냉장",
+    "rowNumber": 2,
+    "colNumber": 2,
+    "maxLoad": 400
+  },
+  {
+    "warehouseNumber": "WH59",
+    "warehouseName": "경기수원시창고-B",
+    "location": "경기도 수원시",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 2,
+    "maxLoad": 800
+  },
+  {
+    "warehouseNumber": "WH60",
+    "warehouseName": "경기수원시창고-C",
+    "location": "경기도 수원시",
+    "category": "냉장",
+    "rowNumber": 1,
+    "colNumber": 4,
+    "maxLoad": 400
+  },
+  {
+    "warehouseNumber": "WH61",
+    "warehouseName": "경기수원시창고-D",
+    "location": "경기도 수원시",
+    "category": "냉장",
+    "rowNumber": 2,
+    "colNumber": 2,
+    "maxLoad": 400
+  },
+  {
+    "warehouseNumber": "WH62",
+    "warehouseName": "경기수원시창고-E",
+    "location": "경기도 수원시",
+    "category": "냉장",
+    "rowNumber": 1,
+    "colNumber": 5,
+    "maxLoad": 500
+  },
+  {
+    "warehouseNumber": "WH63",
+    "warehouseName": "경기성남시창고-A",
+    "location": "경기도 성남시",
+    "category": "상온",
+    "rowNumber": 1,
+    "colNumber": 5,
+    "maxLoad": 500
+  },
+  {
+    "warehouseNumber": "WH64",
+    "warehouseName": "경기성남시창고-B",
+    "location": "경기도 성남시",
+    "category": "상온",
+    "rowNumber": 2,
+    "colNumber": 4,
+    "maxLoad": 800
+  },
+  {
+    "warehouseNumber": "WH65",
+    "warehouseName": "경기성남시창고-C",
     "location": "경기도 성남시",
     "category": "상온",
     "rowNumber": 3,
-    "colNumber": 2,
-    "maxLoad": 600
+    "colNumber": 5,
+    "maxLoad": 1500
   },
   {
-    "warehouseNumber": "WH12",
-    "warehouseName": "경기고양시창고",
+    "warehouseNumber": "WH66",
+    "warehouseName": "경기성남시창고-D",
+    "location": "경기도 성남시",
+    "category": "상온",
+    "rowNumber": 1,
+    "colNumber": 3,
+    "maxLoad": 300
+  },
+  {
+    "warehouseNumber": "WH67",
+    "warehouseName": "경기성남시창고-E",
+    "location": "경기도 성남시",
+    "category": "상온",
+    "rowNumber": 3,
+    "colNumber": 4,
+    "maxLoad": 1200
+  },
+  {
+    "warehouseNumber": "WH68",
+    "warehouseName": "경기고양시창고-A",
+    "location": "경기도 고양시",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 3,
+    "maxLoad": 1200
+  },
+  {
+    "warehouseNumber": "WH69",
+    "warehouseName": "경기고양시창고-B",
     "location": "경기도 고양시",
     "category": "냉장",
     "rowNumber": 3,
-    "colNumber": 3,
-    "maxLoad": 900
+    "colNumber": 5,
+    "maxLoad": 1500
+  },
+  {
+    "warehouseNumber": "WH70",
+    "warehouseName": "경기고양시창고-C",
+    "location": "경기도 고양시",
+    "category": "냉장",
+    "rowNumber": 2,
+    "colNumber": 4,
+    "maxLoad": 800
+  },
+  {
+    "warehouseNumber": "WH71",
+    "warehouseName": "경기고양시창고-D",
+    "location": "경기도 고양시",
+    "category": "냉장",
+    "rowNumber": 5,
+    "colNumber": 2,
+    "maxLoad": 1000
+  },
+  {
+    "warehouseNumber": "WH72",
+    "warehouseName": "경기고양시창고-E",
+    "location": "경기도 고양시",
+    "category": "냉장",
+    "rowNumber": 5,
+    "colNumber": 5,
+    "maxLoad": 2500
   }
 ]

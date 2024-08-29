@@ -1,3 +1,24 @@
+#searchBox {
+  display: flex;
+}
+
+#searchBox .row {
+  border: 1px solid #dee2e6;
+  border-radius: 0.375rem;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background-color: white;
+}
+
+#btnGroup {
+  margin-top: 3px;
+}
+
+#searchBox div {
+  align-items: center;
+  justify-content: center;
+}
+
 .searchBox {
   display: flex;
   align-items: center;
@@ -57,4 +78,74 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.warehouse-table-container {
+  max-height: 500px;
+  max-width: max-content;
+  overflow-y: auto;
+  overflow-x: auto;
+  position: relative;
+  flex: 1;
+}
+
+.warehouse-table-container table {
+  width: max-content;
+  table-layout: fixed;
+  background-color: white;
+}
+
+.warehouse-table-container thead {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #fff;
+}
+
+.table thead th {
+  background-color: #007bff;
+  color: white;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 1rem;
+}
+
+th {
+  padding: 8px;
+  text-align: center;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #0d6efd;
+  color: white;
+}
+tr:nth-child(even) {
+  background-color: #f7f7f7;
+}
+tr:hover {
+  background-color: #d3d3d3;
+  cursor: pointer;
+}
+
+/* warehouseStatus.css */
+.status-safe {
+  background-color: #28a745; /* 초록색 */
+  color: white;
+}
+
+.status-middle {
+  background-color: #ffc107; /* 노란색 */
+  color: black;
+}
+
+.status-danger {
+  background-color: #dc3545; /* 빨간색 */
+  color: white;
 }

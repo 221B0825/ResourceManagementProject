@@ -1,0 +1,182 @@
+[
+  {
+    "warehouseNumber": "WH01",
+    "warehouseName": "충남공주시창고",
+    "location": "충청남도 공주시",
+    "category": "냉장",
+    "rowNumber": 1,
+    "colNumber": 3,
+    "maxLoad": 300,
+    "materials": [
+      {
+        "materialName": "Apple",
+        "category": "청과",
+        "quantity": 50
+      },
+      {
+        "materialName": "Beef",
+        "category": "정육",
+        "quantity": 100
+      },
+      {
+        "materialName": "Orange Juice",
+        "category": "음료",
+        "quantity": 30
+      },
+      {
+        "materialName": "T-shirt",
+        "category": "의류",
+        "quantity": 20
+      },
+      {
+        "materialName": "Chair",
+        "category": "가구",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "warehouseNumber": "WH02",
+    "warehouseName": "충남천안시창고",
+    "location": "충청남도 천안시",
+    "category": "상온",
+    "rowNumber": 2,
+    "colNumber": 2,
+    "maxLoad": 400,
+    "materials": [
+      {
+        "materialName": "Notebook",
+        "category": "사무용품",
+        "quantity": 100
+      },
+      {
+        "materialName": "Television",
+        "category": "전자기기",
+        "quantity": 50
+      },
+      {
+        "materialName": "Table",
+        "category": "가구",
+        "quantity": 80
+      },
+      {
+        "materialName": "Shoes",
+        "category": "의류",
+        "quantity": 70
+      },
+      {
+        "materialName": "Pork",
+        "category": "정육",
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "warehouseNumber": "WH03",
+    "warehouseName": "충남아산시창고",
+    "location": "충청남도 아산시",
+    "category": "냉장",
+    "rowNumber": 3,
+    "colNumber": 1,
+    "maxLoad": 300,
+    "materials": [
+      {
+        "materialName": "Milk",
+        "category": "음료",
+        "quantity": 50
+      },
+      {
+        "materialName": "Apple",
+        "category": "청과",
+        "quantity": 60
+      },
+      {
+        "materialName": "Chicken",
+        "category": "정육",
+        "quantity": 100
+      },
+      {
+        "materialName": "Sofa",
+        "category": "가구",
+        "quantity": 40
+      },
+      {
+        "materialName": "Laptop",
+        "category": "전자기기",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "warehouseNumber": "WH04",
+    "warehouseName": "부산해운대구창고",
+    "location": "부산광역시 해운대구",
+    "category": "상온",
+    "rowNumber": 3,
+    "colNumber": 4,
+    "maxLoad": 1200,
+    "materials": [
+      {
+        "materialName": "Table",
+        "category": "가구",
+        "quantity": 200
+      },
+      {
+        "materialName": "Chair",
+        "category": "가구",
+        "quantity": 150
+      },
+      {
+        "materialName": "Pants",
+        "category": "의류",
+        "quantity": 100
+      },
+      {
+        "materialName": "Lamp",
+        "category": "전자기기",
+        "quantity": 50
+      },
+      {
+        "materialName": "Water",
+        "category": "음료",
+        "quantity": 300
+      }
+    ]
+  },
+  {
+    "warehouseNumber": "WH05",
+    "warehouseName": "부산남구창고",
+    "location": "부산광역시 남구",
+    "category": "냉장",
+    "rowNumber": 4,
+    "colNumber": 3,
+    "maxLoad": 1200,
+    "materials": [
+      {
+        "materialName": "Ice Cream",
+        "category": "음료",
+        "quantity": 200
+      },
+      {
+        "materialName": "Grapes",
+        "category": "청과",
+        "quantity": 300
+      },
+      {
+        "materialName": "Beef",
+        "category": "정육",
+        "quantity": 300
+      },
+      {
+        "materialName": "Fish",
+        "category": "정육",
+        "quantity": 100
+      },
+      {
+        "materialName": "Yogurt",
+        "category": "음료",
+        "quantity": 200
+      }
+    ]
+  }
+]
